@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827618189151",
+    "firebase_url": "https://utangs-1a47c.firebaseio.com",
+    "project_id": "utangs-1a47c",
+    "storage_bucket": "utangs-1a47c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827618189151:android:ec9618123a69134f7960ea",
+        "android_client_info": {
+          "package_name": "tech.laureanray.utangs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827618189151-amau1rsk1po7cp8o2fifhchp3ajhs1r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.laureanray.utangs",
+            "certificate_hash": "169625e8e5315ac092c6c055d739a16b0c526c83"
+          }
+        },
+        {
+          "client_id": "827618189151-nojggqjj9n54rtje5uugjvadjqboohr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSA_2B7XrOt5CuWvm6Xu0ULqG9GelfDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827618189151-nojggqjj9n54rtje5uugjvadjqboohr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

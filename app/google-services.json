@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270449442895",
+    "firebase_url": "https://utangs-29ac6.firebaseio.com",
+    "project_id": "utangs-29ac6",
+    "storage_bucket": "utangs-29ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270449442895:android:b47b513147d6cf3263ea3a",
+        "android_client_info": {
+          "package_name": "tech.laureanray.utangs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270449442895-3ckaao6j5tgatjs0lk1epmephrqgk84p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9Lczc0IYR9Paj-kFp7vH5oBXMs-OkEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270449442895-3ckaao6j5tgatjs0lk1epmephrqgk84p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
